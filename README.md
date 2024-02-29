@@ -8,7 +8,7 @@ Project Link :https://lively-mushroom-0e6116a10.3.azurestaticapps.net/
 
 Project Link :https://github.com/Vatsal-Sharma2003/FRT-PROJECT
 
-Demo Video : https://youtu.be/7JHKNMK7Vko
+Demo Video : https://youtu.be/TXmjWwVXzKo?si=oKgEnY-IXyIiJVDN
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
