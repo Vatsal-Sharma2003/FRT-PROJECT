@@ -6,7 +6,7 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 Project Link :https://lively-mushroom-0e6116a10.3.azurestaticapps.net/
 
-Project Link :https://abhishdas.github.io/Future-Ready-Talent/
+Project Link :https://github.com/Vatsal-Sharma2003/FRT-PROJECT
 
 Demo Video : https://youtu.be/7JHKNMK7Vko
 
