@@ -48,5 +48,5 @@ The Medpill website is a platform that offers numerous medical services online. 
 
 
 ### License
-© 2024 All rights reserved by Vatsal Sharma. Das Designed for FRT Project.
+© 2024 All rights reserved by Vatsal Sharma Designed for FRT Project.
 
